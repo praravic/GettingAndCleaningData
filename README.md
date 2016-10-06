@@ -26,7 +26,6 @@ You should create one R script called run_analysis.R that does the following.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 #What you find in this repository
-* UCI HAR Dataset.zip - This is the zipped version of the original dataset on which the R script will run
 * run_analysis.R - The R script which transforms the original data into tidy data
 * README.md - This file
 * Codebook.md - This explains the tidy data set
