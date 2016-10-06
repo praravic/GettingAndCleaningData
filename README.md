@@ -32,9 +32,9 @@ You should create one R script called run_analysis.R that does the following.
 * Codebook.md - This explains the tidy data set
  
 #Steps to reproduce this Project
-*Download and save the run_analysis.R file to the working directory
-*Set setwd() to the folder containing the run_analysis.R file
-*Run the run_analysis.R file
+* Download and save the run_analysis.R file to the working directory
+* Set setwd() to the folder containing the run_analysis.R file
+* Run the run_analysis.R file
 
 #Output Produced
 * TidySet.txt will be generated and this will contain the tidy data set
