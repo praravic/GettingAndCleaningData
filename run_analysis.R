@@ -1,3 +1,7 @@
+##Load the Libraries
+library(data.table)
+library(dplyr)
+
 ##Download and unzip the files
 if (!file.exists("./data")){dir.create("./data")}
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip",destfile = "./data/dataset.zip",mode="wb")
