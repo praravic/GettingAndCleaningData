@@ -28,51 +28,51 @@ For each record in the dataset it is provided:
 	* Factor with 6 levels - LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 			
 - SubjectID
-			* ID of the subject who performed the activity
-			* Integer with a value range of 1 to 30
+	* ID of the subject who performed the activity
+	* Integer with a value range of 1 to 30
 
 - The below are the mean/ standard deviation of the various (numeric) measurements collected during the experiment, along the X/Y/Z axis
-			* tBodyAcc-mean-(X/Y/Z)
-			* tBodyAcc-std-(X/Y/Z)
-			* tGravityAcc-mean-(X/Y/Z)
-			* tGravityAcc-std-(X/Y/Z)
-			* tBodyAccJerk-mean-(X/Y/Z)
-			* tBodyAccJerk-std-(X/Y/Z)
-			* tBodyGyro-mean-(X/Y/Z)
-			* tBodyGyro-std-(X/Y/Z)
-			* tBodyGyroJerk-mean-(X/Y/Z)
-			* tBodyGyroJerk-std-(X/Y/Z)
-			* tBodyAccMag-mean
-			* tBodyAccMag-std
-			* tGravityAccMag-mean
-			* tGravityAccMag-std
-			* tBodyAccJerkMag-mean
-			* tBodyAccJerkMag-std
-			* tBodyGyroMag-mean
-			* tBodyGyroMag-std
-			* tBodyGyroJerkMag-mean
-			* tBodyGyroJerkMag-std
-			* fBodyAcc-mean-(X/Y/Z)
-			* fBodyAcc-std-(X/Y/Z)
-			* fBodyAcc-meanFreq-(X/Y/Z)
-			* fBodyAccJerk-mean-(X/Y/Z)
-			* fBodyAccJerk-std-(X/Y/Z)
-			* fBodyAccJerk-meanFreq-(X/Y/Z)
-			* fBodyGyro-mean-(X/Y/Z)
-			* fBodyGyro-std-(X/Y/Z)
-			* fBodyGyro-meanFreq-(X/Y/Z)
-			* fBodyAccMag-mean
-			* fBodyAccMag-std
-			* fBodyAccMag-meanFreq
-			* fBodyBodyAccJerkMag-mean
-			* fBodyBodyAccJerkMag-std
-			* fBodyBodyAccJerkMag-meanFreq
-			* fBodyBodyGyroMag-mean
-			* fBodyBodyGyroMag-std
-			* fBodyBodyGyroMag-meanFreq
-			* fBodyBodyGyroJerkMag-mean
-			* fBodyBodyGyroJerkMag-std
-			* fBodyBodyGyroJerkMag-meanFreq
+	* tBodyAcc-mean-(X/Y/Z)
+	* tBodyAcc-std-(X/Y/Z)
+	* tGravityAcc-mean-(X/Y/Z)
+	* tGravityAcc-std-(X/Y/Z)
+	* tBodyAccJerk-mean-(X/Y/Z)
+	* tBodyAccJerk-std-(X/Y/Z)
+	* tBodyGyro-mean-(X/Y/Z)
+	* tBodyGyro-std-(X/Y/Z)
+	* tBodyGyroJerk-mean-(X/Y/Z)
+	* tBodyGyroJerk-std-(X/Y/Z)
+	* tBodyAccMag-mean
+	* tBodyAccMag-std
+	* tGravityAccMag-mean
+	* tGravityAccMag-std
+	* tBodyAccJerkMag-mean
+	* tBodyAccJerkMag-std
+	* tBodyGyroMag-mean
+	* tBodyGyroMag-std
+	* tBodyGyroJerkMag-mean
+	* tBodyGyroJerkMag-std
+	* fBodyAcc-mean-(X/Y/Z)
+	* fBodyAcc-std-(X/Y/Z)
+	* fBodyAcc-meanFreq-(X/Y/Z)
+	* fBodyAccJerk-mean-(X/Y/Z)
+	* fBodyAccJerk-std-(X/Y/Z)
+	* fBodyAccJerk-meanFreq-(X/Y/Z)
+	* fBodyGyro-mean-(X/Y/Z)
+	* fBodyGyro-std-(X/Y/Z)
+	* fBodyGyro-meanFreq-(X/Y/Z)
+	* fBodyAccMag-mean
+	* fBodyAccMag-std
+	* fBodyAccMag-meanFreq
+	* fBodyBodyAccJerkMag-mean
+	* fBodyBodyAccJerkMag-std
+	* fBodyBodyAccJerkMag-meanFreq
+	* fBodyBodyGyroMag-mean
+	* fBodyBodyGyroMag-std
+	* fBodyBodyGyroMag-meanFreq
+	* fBodyBodyGyroJerkMag-mean
+	* fBodyBodyGyroJerkMag-std
+	* fBodyBodyGyroJerkMag-meanFreq
 
 
 
